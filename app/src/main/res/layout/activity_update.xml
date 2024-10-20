@@ -74,6 +74,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="end"
             android:layout_marginTop="20dp"
-            android:text="Submit" />
+            android:backgroundTint="#564E45"
+            android:text="Submit"
+            android:textColor="#DCCFB2" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
